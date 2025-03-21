@@ -40,17 +40,6 @@ Je suis un étudiant en développement web à YouCode, passionné par les techno
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smail-najim&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## Mes projets 💻
-
-### Youdemy
-- Projet de plateforme d'apprentissage en ligne
-- Technologies utilisées: PHP, MySQL, HTML, CSS, JavaScript
-- [Voir le projet](#) <!-- Ajoutez le lien vers votre projet quand disponible -->
-
-### Upwork Clone
-- Clone de la plateforme freelance Upwork
-- Technologies utilisées: PHP, Bootstrap, MySQL
-- [Voir le projet](#) <!-- Ajoutez le lien vers votre projet quand disponible -->
 
 ## Formation 🎓
 
